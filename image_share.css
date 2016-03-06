@@ -1,0 +1,11 @@
+/* CSS declarations go here */
+.item {
+	margin: 5px;
+	padding: 5px;
+	border: 1px solid #bbb;
+	border-radius: 5px;
+}
+
+.caption {
+	text-align: center;
+}
